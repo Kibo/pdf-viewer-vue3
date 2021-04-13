@@ -1,6 +1,6 @@
 {
   "name": "pdf-viewer-vue3",
-  "version": "0.0.1",
+  "version": "0.4.1",
   "description": "Vue3 component for view PDF file.",
   "scripts": {
     "build": "webpack",

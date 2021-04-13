@@ -1,9 +1,9 @@
 # PDF viewer for Vue3
 
-Vue3 component
+a simple Vue3 component for rendering PDF on HTML page
 
 ## Version
-- 0.0.0 ( codding )
+- 0.4.1
 
 ### Dependencies
 - [Vue.js](https://vuejs.org/)
