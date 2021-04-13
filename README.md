@@ -1,6 +1,6 @@
 # PDF viewer component
 
-a simple Vue3 component for rendering PDF on HTML page
+Simple Vue3 component for rendering PDF on HTML page.
 
 ## Version
 - 0.4.1
@@ -24,6 +24,7 @@ $ npm run build
 ```
 $ npm run start
 ```
+Open http://localhost:3000 in your browser.
 
 ### Example
 ```
