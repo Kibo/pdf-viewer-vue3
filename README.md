@@ -1,4 +1,4 @@
-# PDF viewer for Vue3
+# PDF viewer component
 
 a simple Vue3 component for rendering PDF on HTML page
 
@@ -25,11 +25,6 @@ $ npm run build
 $ npm run start
 ```
 
-### Test
-```
-$ npm run test
-```
-
 ### Example
 ```
 <template>
@@ -46,3 +41,6 @@ export default {
 }
 </script>
 ```
+
+### Screen
+<img src="https://raw.githubusercontent.com/Kibo/pdf-viewer-vue3/master/src/img/screen1.jpg" alt="PDF screen">
