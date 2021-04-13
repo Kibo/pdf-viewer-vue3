@@ -29,3 +29,20 @@ $ npm run start
 ```
 $ npm run test
 ```
+
+### Example
+```
+<template>
+    <PDFDocument v-bind:src="'/assets/seminars.pdf'" />
+</template>
+
+<script>
+import PDFDocument from "./pdf/PDFDocument.vue"
+
+export default {
+  components: {
+      PDFDocument
+  }
+}
+</script>
+```
