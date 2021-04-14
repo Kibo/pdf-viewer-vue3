@@ -29,7 +29,7 @@ Open http://localhost:3000 in your browser.
 ### Example
 ```
 <template>
-    <PDFDocument v-bind:src="'/assets/seminars.pdf'" />
+    <PDFDocument v-bind:src="'/assets/testa.pdf'" />
 </template>
 
 <script>
