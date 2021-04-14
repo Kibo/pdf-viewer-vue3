@@ -1,6 +1,6 @@
 # PDF viewer component
 
-Simple Vue3 component for rendering PDF on HTML page **with fixed size**.
+Simple Vue3 component for rendering PDF on HTML Canvas **with fixed size**.
 
 ## Version
 - 0.4.4
