@@ -3,7 +3,7 @@
 Simple Vue3 component for rendering PDF on HTML page **with fixed size**.
 
 ## Version
-- 0.4.1
+- 0.4.4
 
 ### Dependencies
 - [Vue.js](https://vuejs.org/)
